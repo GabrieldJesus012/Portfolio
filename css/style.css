@@ -10,11 +10,11 @@
     font-size: 62.5%;
     font-family: 'Roboto', sans-serif;
     /* Váriaveis  */
-    --var-primary-color: #010809;
-    --var-secundary-color: #0D1117;
-    --var-color-text: #BBC2C7;
-    --var-color-borda:#1f2b3b;
-    --var-color-button:#142842;
+    --var-primary-color: #0367A6;
+    --var-secundary-color: #011526;
+    --var-color-text: #CACACA;
+    --var-color-borda:#217373;
+    --var-color-button:#84B026;
 }
 
 body {
